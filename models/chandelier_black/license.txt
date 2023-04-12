@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chandelier Black
+* source:	https://sketchfab.com/3d-models/chandelier-black-c66c187d0ed44d759d2b6564fbc83a9c
+* author:	Pivoga (https://sketchfab.com/Pivoga)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chandelier Black" (https://sketchfab.com/3d-models/chandelier-black-c66c187d0ed44d759d2b6564fbc83a9c) by Pivoga (https://sketchfab.com/Pivoga) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

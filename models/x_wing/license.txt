@@ -1,0 +1,11 @@
+Model Information:
+* title:	X-Wing
+* source:	https://sketchfab.com/3d-models/x-wing-6fdd3b18c4b245bf9eba1fd32611496a
+* author:	StarWars-Universe (https://sketchfab.com/SWU)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "X-Wing" (https://sketchfab.com/3d-models/x-wing-6fdd3b18c4b245bf9eba1fd32611496a) by StarWars-Universe (https://sketchfab.com/SWU) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

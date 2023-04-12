@@ -1,0 +1,11 @@
+Model Information:
+* title:	Star Wars; TIE Fighter
+* source:	https://sketchfab.com/3d-models/star-wars-tie-fighter-7168fab6ee2a4c62979c3dbfa05458f0
+* author:	Heataker (https://sketchfab.com/Heataker)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Star Wars; TIE Fighter" (https://sketchfab.com/3d-models/star-wars-tie-fighter-7168fab6ee2a4c62979c3dbfa05458f0) by Heataker (https://sketchfab.com/Heataker) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
