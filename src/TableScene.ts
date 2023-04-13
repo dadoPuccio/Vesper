@@ -6,6 +6,9 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import { GUI } from 'dat.gui';
 import { updateShaderLightPosition } from './main';
 
+import chandelier_black from '../models/chandelier_black/scene.gltf';
+import simple_dining_table from '../models/simple_dining_table/scene.gltf';
+
 export default class TableScene extends THREE.Scene {
 
     private orbitControls: OrbitControls;
@@ -67,7 +70,7 @@ export default class TableScene extends THREE.Scene {
         this.add(this.sun);
 
         // CHANDELIER
-        const chandelier = await this.loader.loadAsync( '../models/chandelier_black/scene.gltf');
+        const chandelier = await this.loader.loadAsync(chandelier_black);
         chandelier.scene.traverse(function (obj: any) {
             if (obj instanceof THREE.Mesh) {
                 let material = new THREE.MeshBasicMaterial({ color: "#000000" });
@@ -83,7 +86,7 @@ export default class TableScene extends THREE.Scene {
         this.add(chandelier.scene);
         
         // TABLE
-        const table = await this.loader.loadAsync( '../models/simple_dining_table/scene.gltf');
+        const table = await this.loader.loadAsync(simple_dining_table);
         table.scene.traverse(function (obj) {
             if (obj instanceof THREE.Mesh) {
                 let material = new THREE.MeshBasicMaterial({ color: "#000000" });

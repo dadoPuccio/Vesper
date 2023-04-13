@@ -11,6 +11,9 @@ import { updateShaderLightPosition } from './main';
 
 import heightMap from "../images/heightmap.png";
 
+import x_wing from '../models/x_wing/scene.gltf';
+import star_wars_tie_fighter from '../models/star_wars_tie_fighter/scene.gltf';
+
 export default class FlyingScene extends THREE.Scene {
 
     private orbitControls: OrbitControls;
@@ -84,7 +87,7 @@ export default class FlyingScene extends THREE.Scene {
         this.add(this.sun);
         
         // TIE FIGHTER
-        const tie = await this.loader.loadAsync( '../models/star_wars_tie_fighter/scene.gltf');
+        const tie = await this.loader.loadAsync(star_wars_tie_fighter);
         tie.scene.traverse(function (obj) {
             if (obj instanceof THREE.Mesh) {
                 let material = new THREE.MeshBasicMaterial({ color: "#000000" });
@@ -99,7 +102,7 @@ export default class FlyingScene extends THREE.Scene {
         this.add(tie.scene);
 
         // X-WING
-        const xwing = await this.loader.loadAsync( '../models/x_wing/scene.gltf');
+        const xwing = await this.loader.loadAsync(x_wing);
         xwing.scene.traverse(function (obj) {
             if (obj instanceof THREE.Mesh) {
                 let material = new THREE.MeshBasicMaterial({ color: "#000000" });
