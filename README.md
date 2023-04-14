@@ -38,7 +38,7 @@ Two scenes are available:
   <img src="https://github.com/dadoPuccio/Vesper/blob/master/images/TableScene.png" width="800px" />
 </p>
 
-## Flying Scene
+### Flying Scene
 <p align="center">
   <img src="https://github.com/dadoPuccio/Vesper/blob/master/images/FlyingScene.png" width="800px" />
 </p>
